@@ -1,0 +1,13 @@
+filename = 'modnametooltip_1.12.2-1.10.1.jar'
+name = 'Mod Name Tooltip'
+side = 'both'
+
+[download]
+hash = '46e4e9aa1a443de953088148fdcd3c7b9255d7cf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2739582
+project-id = 238747

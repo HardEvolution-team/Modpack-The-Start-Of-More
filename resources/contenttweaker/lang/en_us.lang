@@ -1,0 +1,246 @@
+item.contenttweaker.cobblestone_hammer.name=Cobblestone hammer
+item.contenttweaker.cobblestone_plate.name=Cobblestone plate
+item.contenttweaker.wood_plate.name=Wood plate
+item.contenttweaker.wood_gear.name=Wood gear
+tile.contenttweaker.industrial_brick.name=Industrial brick
+tile.contenttweaker.meltingfurnacebrick.name=Melting furnace brick
+item.contenttweaker.cast_iron.name=Cast iron
+tile.contenttweaker.CastIronBlock.name=Cast Iron Block
+item.contenttweaker.cast_iron_plate.name=Cast iron plate
+item.contenttweaker.flint_sword.name=Flint sword
+item.contenttweaker.flint_shovel.name=Flint shovel
+item.contenttweaker.flint_hoe.name=Flint hoe
+item.contenttweaker.flint_axe.name=Flint axe
+item.contenttweaker.flint_pickaxe.name=Flint pickaxe
+item.contenttweaker.thaumMetal_circuit.name=ThaumMetal circuit
+item.contenttweaker.thaumMetal_circuit1.name=ThaumMetal capacitor
+item.contenttweaker.thaumMetal_circuit2.name=ThaumMetal chip SOIC
+item.contenttweaker.thaumMetal_circuit2.name=ThaumMetal chip QFP
+item.contenttweaker.VoidMetal_circuit.name=VoidMetal circuit
+item.contenttweaker.VoidMetal_circuit1.name=VoidMetal capacitor
+item.contenttweaker.VoidMetal_circuit2.name=VoidMetal chip SOIC
+item.contenttweaker.VoidMetal_circuit3.name=VoidMetal chip QFP
+item.contenttweaker.ichor_circuit.name=Ichor circuit
+item.contenttweaker.ichor_circuit1.name=Ichor capacitor
+item.contenttweaker.ichor_circuit2.name=Ichor chip SOIC
+item.contenttweaker.ichor_circuit3.name=Ichor chip QFP
+item.contenttweaker.draconic_circuit.name=Draconic circuit
+item.contenttweaker.draconic_circuit1.name=Draconic capacitor
+item.contenttweaker.draconic_circuit2.name=Draconic chip SOIC
+item.contenttweaker.draconic_circuit3.name=Draconic chip QFP
+item.contenttweaker.awakend_circuit.name=Awakend circuit
+item.contenttweaker.awakend_circuit1.name=Awakend capacitor
+item.contenttweaker.awakend_circuit2.name=Awakend chip SOIC
+item.contenttweaker.awakend_circuit3.name=Awakend chip QFP
+item.contenttweaker.chaos_circuit.name=Chaos circuit
+item.contenttweaker.chaos_circuit1.name=Chaos capacitor
+item.contenttweaker.chaos_circuit2.name=Chaos chip SOIC
+item.contenttweaker.chaos_circuit3.name=Chaos chip QFP
+item.contenttweaker.adamantium_circuit.name=Adamantium circuit
+item.contenttweaker.adamantium_circuit1.name=Adamantium capacitor
+item.contenttweaker.adamantium_circuit2.name=Adamantium chip SOIC
+item.contenttweaker.adamantium_circuit3.name=Adamantium chip QFP
+item.contenttweaker.pickaxe_head.name=Pickaxe head
+item.contenttweaker.shovel_head.name=Shovel head
+item.contenttweaker.sword_head.name=Sword head
+item.contenttweaker.hoe_head.name=Hoe head
+item.contenttweaker.axe_head.name=Axe head
+item.contenttweaker.fat.name=Fat
+item.contenttweaker.untreated_leather.name=Untreated leather
+item.contenttweaker.raw_leather.name=Raw leather
+item.contenttweaker.treated_leather.name=Treated leather
+item.contenttweaker.digger_stick.name=Digger-stick
+item.contenttweaker.handle.name=Handle
+tile.contenttweaker.neut_casing.name=Neutronium casing
+tile.contenttweaker.chaos_neutron_stabilizer.name=Chaos neutron stabilizer
+item.contenttweaker.flint_knife.name=Flint knife
+item.contenttweaker.iron_knife.name=Iron knife
+item.contenttweaker.bronze_knife.name=Bronze knife
+item.contenttweaker.steel_knife.name=Steel knife
+item.contenttweaker.dark_steel_knife.name=Dark steel knife
+item.contenttweaker.hematite.name=Hematite
+item.contenttweaker.pyrite.name=Pyrite
+item.contenttweaker.bauxite.name=Bauxite
+item.contenttweaker.limonite.name=Limonite
+item.contenttweaker.chalcopyrite.name=Chalcopyrite
+item.contenttweaker.sphalerite.name=Sphalerite
+item.contenttweaker.magnetite.name=Magnetite
+item.contenttweaker.galena.name=Galena
+item.contenttweaker.pyrolusite.name=Pyrolusite
+
+item.contenttweaker.shape_of_the_casting_gear.name=Shape of the casting gear
+item.contenttweaker.shape_of_the_casting_stick.name=Shape of the casting stick
+item.contenttweaker.shape_of_the_casting_plate.name=Shape of the casting plate
+item.contenttweaker.shape_of_the_casting_ingot.name=Shape of the casting ingot
+item.contenttweaker.shape_of_the_casting_hoe.name=Shape of the casting hoe
+item.contenttweaker.shape_of_the_casting_axe.name=Shape of the casting axe
+item.contenttweaker.shape_of_the_casting_sword.name=Shape of the casting sword
+item.contenttweaker.shape_of_the_casting_hammer.name=Shape of the casting hammer
+item.contenttweaker.shape_of_the_casting_shovel.name=Shape of the casting shovel
+item.contenttweaker.shape_of_the_casting_pickaxe.name=Shape of the casting pickaxe
+item.contenttweaker.limestone_flux.name=Limestone flux
+item.contenttweaker.cast_iron_nugget.name=Cast iron nugget
+item.contenttweaker.cement.name=Cement
+item.contenttweaker.kritsa.name=Kritsa
+item.contenttweaker.wooden_hoper_frame.name=Wooden hoper frame
+item.contenttweaker.wooden_rivet.name=Wooden rivet
+item.contenttweaker.chisel_on_wood.name=Chisel on wood
+item.contenttweaker.chisel_on_stone.name=Chisel on stone
+item.contenttweaker.Sharpening_stone.name=Sharpening stone
+item.contenttweaker.durosteel.name=Durosteel
+item.contenttweaker.wooden_plate.name=Wooden plate
+item.contenttweaker.wooden_mechanism.name=Wooden mechanism
+item.contenttweaker.compressed_wooden_plate.name=Compressed wooden plate
+item.contenttweaker.wooden_gear.name=Wooden gear
+item.contenttweaker.plant_fiber.name=Plant fiber
+item.contenttweaker.electric_magnet.name=Electric magnet
+tile.contenttweaker.refractory_bricks.name=Refractory bricks
+item.contenttweaker.basalt.name=Basalt
+item.contenttweaker.bronze_hammer.name=Bronze hammer
+item.contenttweaker.bronze_rivets.name=Bronze rivets
+item.contenttweaker.bronze_hoe_blade.name=Bronze hoe blade
+item.contenttweaker.bronze_sword_blade.name=Bronze sword blade
+item.contenttweaker.bronze_shovel_canvase.name=Bronze shovel canvase
+item.contenttweaker.bronze_pickaxe_tip.name=Bronze pickaxe tib
+item.contenttweaker.bronze_axe_blade.name=Bronze axe blade
+tile.contenttweaker.BronzeCasing.name=Bronze casing
+
+item.contenttweaker.steel_wire.name=Steel wire
+item.contenttweaker.gold_wire.name=Gold wire
+item.contenttweaker.iron_wire.name=Iron wire
+item.contenttweaker.copper_wire.name=Copper wire
+item.contenttweaker.tin_wire.name=Tin wire
+
+item.contenttweaker.steel_coil.name=Steel coil
+item.contenttweaker.gold_coil.name=Gold coil
+item.contenttweaker.iron_coil.name=Iron coil
+item.contenttweaker.copper_coil.name=Copper coil
+item.contenttweaker.tin_coil.name=Tin coil
+
+item.contenttweaker.steam_tank.name=Steam tank
+item.contenttweaker.electric_motor.name=Electric motor
+item.contenttweaker.bronze_gear.name=Bronze gear
+item.contenttweaker.iron_rotor.name=Iron rotor
+item.contenttweaker.iron_shaft.name=Iron shaft
+
+item.contenttweaker.hand_drill.name=Hand drill
+item.contenttweaker.iron_drill_head.name=Iron drill head
+
+item.contenttweaker.scales_of_the_Guardian_of_Chaos.name=Scales of the Guardian of Chaos
+
+
+item.contenttweaker.high_pressure_boiler_part1.name=high pressure boiler part1
+
+item.contenttweaker.high_pressure_boiler_part2.name=high pressure boiler part2
+
+item.contenttweaker.high_pressure_boiler_part3.name=high pressure boiler part3
+
+item.contenttweaker.steel_casing.name=steel casing
+
+
+
+item.contenttweaker.red_steel_plate.name=Red steel plate
+
+item.contenttweaker.red_steel_stick.name=Red steel stick
+
+item.contenttweaker.black_bronze_plate.name=Black bronze plate
+
+item.contenttweaker.black_bronze_stick.name=Black bronze stick
+
+item.contenttweaker.bismuth_bronze_plate.name=Bismuth bronze plate
+
+item.contenttweaker.bismuth_bronze_stick.name=Bismuth bronze stick
+
+item.contenttweaker.bismuth_plate.name=Bismuth plate
+
+item.contenttweaker.bismuth_stick.name=Bismuth stick
+
+item.contenttweaker.pink_gold_plate.name=Pink gold plate
+
+item.contenttweaker.pink_gold_stick.name=Pink gold stick
+
+item.contenttweaker.volatile_iron_plate.name=Volatile iron plate
+
+item.contenttweaker.volatile_iron_stick.name=Volatile iron stick
+
+item.contenttweaker.awakened_dragonium_plate.name=Awakened dragonium plate
+
+item.contenttweaker.awakened_dragonium_stick.name=Awakened dragonium stick
+
+item.contenttweaker.dragonium_plate.name=Dragonium plate
+
+item.contenttweaker.dragonium_stick.name=Dragonium stick
+
+item.contenttweaker.neutronium_plate.name=Neutronium plate
+
+item.contenttweaker.neutronium_stick.name=Neutronium stick
+
+item.contenttweaker.crystal_matrix_plate.name=Crystal matrix plate
+
+item.contenttweaker.crystal_matrix_stick.name=Crystal matrix stick
+
+item.contenttweaker.infiniti_plate.name=Infiniti plate
+
+item.contenttweaker.infiniti_stick.name=Infiniti stick
+
+item.contenttweaker.inferium_plate.name=Inferium plate
+
+item.contenttweaker.inferium_stick.name=Inferium stick
+
+item.contenttweaker.prudentium_plate.name=Prudentium plate
+
+item.contenttweaker.prudentium_stick.name=Prudentium stick
+
+item.contenttweaker.intermedium_plate.name=Intermedium plate
+
+item.contenttweaker.intermedium_stick.name=Intermedium stick
+
+item.contenttweaker.superium_plate.name=Superium plate
+
+item.contenttweaker.superium_stick.name=Superium stick
+
+item.contenttweaker.supreium_plate.name=Supreium plate
+
+item.contenttweaker.supreium_stick.name=Supreium stick
+
+item.contenttweaker.insanium_plate.name=Insanium plate
+
+item.contenttweaker.insanium_stick.name=Insanium stick
+
+item.contenttweaker.meteoritic_iron_plate.name=Meteoritic iron plate
+
+item.contenttweaker.meteoritic_iron_stick.name=Meteoritic iron stick
+
+item.contenttweaker.desh_plate.name=Desh plate
+
+item.contenttweaker.desh_stick.name=Desh stick
+
+item.contenttweaker.thaumium_plate.name=Thaumium plate
+
+item.contenttweaker.thaumium_stick.name=Thaumium stick
+
+item.contenttweaker.void_plate.name=Void plate
+
+item.contenttweaker.void_stick.name=Void stick
+
+item.contenttweaker.enderium_plate.name=Enderium plate
+
+item.contenttweaker.enderium_stick.name=Enderium stick
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+filename = 'Controlling-3.0.12.3.jar'
+name = 'Controlling'
+side = 'both'
+
+[download]
+hash = 'cf0e77100da33aed85aee3697e6e0206cf7f956a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5165715
+project-id = 250398

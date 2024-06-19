@@ -1,0 +1,33 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "layer":"SOLID",
+        "textures":[
+            "contenttweaker:blocks/casing16_ctm"
+        ],
+		"extra": {
+            "ignore_states": true,
+            "connect_to": [
+				{ "block": "contenttweaker:casing16" },
+				{ "block": "modularmachinery:blockcasing" },
+				{ "block": "modularmachinery:antiion_fabricator_component_controller" },
+				{ "block": "modularmachinery:antiion_fabricator_materials_controller" },
+				{ "block": "modularmachinery:antiion_fabricator_supermaterials_controller" },
+				{ "block": "modularmachinery:artificial_anomaly_controller" },
+				{ "block": "modularmachinery:industrial_reactor_t2_controller" },
+				{ "block": "modularmachinery:blockenergyinputhatch" },
+				{ "block": "modularmachinery:blockenergyoutputhatch" },
+				{ "block": "modularmachinery:blockfluidinputhatch" },
+				{ "block": "modularmachinery:blockfluidoutputhatch" },
+				{ "block": "modularmachinery:blockinputbus" },
+				{ "block": "modularmachinery:blockoutputbus" },
+				{ "block": "modularmachinery:blockmeitemoutputbus" },
+				{ "block": "modularmachinery:blockmeiteminputbus" },
+				{ "block": "modularmachinery:blockmefluidoutputbus" },
+				{ "block": "modularmachinery:blockmefluidinputbus" },
+				{ "block": "modularmachinery:blockparallelcontroller" }
+            ]
+        }
+    }
+}

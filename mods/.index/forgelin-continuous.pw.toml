@@ -1,0 +1,13 @@
+filename = 'Forgelin-Continuous-1.9.23.2.jar'
+name = 'Forgelin-Continuous'
+side = 'both'
+
+[download]
+hash = 'ce7f29d55b00ed31970634da306b4c11f163b074'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5254666
+project-id = 456403

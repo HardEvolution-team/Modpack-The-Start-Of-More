@@ -1,0 +1,217 @@
+item.contenttweaker.cobblestone_hammer.name=Молот из булыжника
+item.contenttweaker.cobblestone_plate.name=Булыжная плита
+item.contenttweaker.wood_plate.name=Деревянная пластина
+item.contenttweaker.wood_gear.name=Деревянное шестерёнка
+tile.contenttweaker.industrial_brick.name=Промышленный кирпич
+tile.contenttweaker.meltingfurnacebrick.name=Печь плавления кирпича
+item.contenttweaker.cast_iron.name=Чугун
+tile.contenttweaker.CastIronBlock.name=Чугунный блок
+item.contenttweaker.cast_iron_plate.name=Чугунная пластина
+item.contenttweaker.flint_sword.name=Кремневой меч
+item.contenttweaker.flint_shovel.name=Кремневая лопата
+item.contenttweaker.flint_hoe.name=Кремневая мотыга
+item.contenttweaker.flint_axe.name=Кремневый топор
+item.contenttweaker.flint_pickaxe.name=Кремневая кирка
+item.contenttweaker.thaumMetal_circuit.name=Схема thaumMetal
+item.contenttweaker.thaumMetal_circuit1.name=Конденсатор thaumMetal
+item.contenttweaker.thaumMetal_circuit2.name=Чип thaumMetal SOIC
+item.contenttweaker.thaumMetal_circuit2.name=Чип thaumMetal QFP
+item.contenttweaker.VoidMetal_circuit.name=Цепь VoidMetal
+item.contenttweaker.VoidMetal_circuit1.name=Конденсатор VoidMetal
+item.contenttweaker.VoidMetal_circuit2.name=Чип VoidMetal SOIC
+item.contenttweaker.VoidMetal_circuit3.name=Чип VoidMetal QFP
+item.contenttweaker.ichor_circuit.name=Ихорная схема
+item.contenttweaker.ichor_circuit1.name=Ихоровый конденсатор
+item.contenttweaker.ichor_circuit2.name=Ихоровый чип SOIC
+item.contenttweaker.ichor_circuit3.name=Чип Icho QFP
+item.contenttweaker.draconic_circuit.name=Драконическая схема
+item.contenttweaker.draconic_circuit1.name=Драконический конденсатор
+item.contenttweaker.draconic_circuit2.name=Драконический чип SOIC
+item.contenttweaker.draconic_circuit3.name=Чип дракона QFP
+item.contenttweaker.awakend_circuit.name=Цепь пробуждения
+item.contenttweaker.awakend_circuit1.name=Пробуждение конденсатора
+item.contenttweaker.awakend_circuit2.name=Чип пробуждения SOIC
+item.contenttweaker.awakend_circuit3.name=Чип пробуждения QFP
+item.contenttweaker.chaos_circuit.name=Схема хаоса
+item.contenttweaker.chaos_circuit1.name=Конденсатор хаоса
+item.contenttweaker.chaos_circuit2.name=Чип хаоса SOIC
+item.contenttweaker.chaos_circuit3.name=Чип хаоса QFP
+item.contenttweaker.adamantium_circuit.name=Адамантиевая схема
+item.contenttweaker.adamantium_circuit1.name=Адамантиевый конденсатор
+item.contenttweaker.adamantium_circuit2.name=Адамантиевый чип SOIC
+item.contenttweaker.adamantium_circuit3.name=Адамантиевый чип QFP
+item.contenttweaker.pickaxe_head.name=Головка кирки
+item.contenttweaker.shovel_head.name=Наконечник лопаты
+item.contenttweaker.sword_head.name=Головка меча
+item.contenttweaker.hoe_head.name=Наконечник мотыги
+item.contenttweaker.axe_head.name=Головка топора
+item.contenttweaker.fat.name=Жир
+item.contenttweaker.untreated_leather.name=Необработанная кожа
+item.contenttweaker.raw_leather.name=Необработанная кожа
+item.contenttweaker.treated_leather.name=Обработанная кожа
+item.contenttweaker.digger_stick.name=Палка-копалка
+item.contenttweaker.handle.name=Дескриптор
+tile.contenttweaker.neut_casing.name=Нейтрониевый корпус
+tile.contenttweaker.chaos_neutron_stabilizer.name=Стабилизатор нейтронов хаоса
+item.contenttweaker.flint_knife.name=Кремневой нож
+item.contenttweaker.iron_knife.name=Железный нож
+item.contenttweaker.bronze_knife.name=Бронзовый нож
+item.contenttweaker.steel_knife.name=Стальной нож
+item.contenttweaker.dark_steel_knife.name=Нож из темной стали
+item.contenttweaker.hematite.name=Гематит
+item.contenttweaker.pyrite.name=Пирит
+item.contenttweaker.bauxite.name=Боксит
+item.contenttweaker.limonite.name=Лимонит
+item.contenttweaker.chalcopyrite.name=Халькопирит
+item.contenttweaker.sphalerite.name=Сфалерит
+item.contenttweaker.magnetite.name=Магнетит
+item.contenttweaker.galena.name=Галена
+item.contenttweaker.pyrolusite.name=Пиролюсит
+
+item.contenttweaker.shape_of_the_casting_gear.name=Форма механизма заброса
+item.contenttweaker.shape_of_the_casting_stick.name=Форма литейной палочки
+item.contenttweaker.shape_of_the_casting_plate.name=Форма литейной пластины
+item.contenttweaker.shape_of_the_casting_ingot.name=Форма литейного слитка
+item.contenttweaker.shape_of_the_casting_hoe.name=Форма мотыги для литья
+item.contenttweaker.shape_of_the_casting_axe.name=Форма литейного топора
+item.contenttweaker.shape_of_the_casting_sword.name=Форма литейного меча
+item.contenttweaker.shape_of_the_casting_hammer.name=Форма литейного молотка
+item.contenttweaker.shape_of_the_casting_shovel.name=Форма литейной лопаты
+item.contenttweaker.shape_of_the_casting_pickaxe.name=Форма литейной кирки
+item.contenttweaker.limestone_flux.name=Известняковый флюс
+item.contenttweaker.cast_iron_nugget.name=Чугунный самородок
+item.contenttweaker.cement.name=Цемент
+item.contenttweaker.kritsa.name=Критса
+item.contenttweaker.wooden_hoper_frame.name=Деревянная рамка надежды
+item.contenttweaker.wooden_rivet.name=Деревянная заклепка
+item.contenttweaker.chisel_on_wood.name=Стамеска по дереву
+item.contenttweaker.chisel_on_stone.name=Стамеска по камню
+item.contenttweaker.Sharpening_stone.name=Точильный камень
+item.contenttweaker.durosteel.name=Дюросталь
+item.contenttweaker.wooden_plate.name=Деревянная пластина
+item.contenttweaker.wooden_mechanism.name=Деревянный механизм
+item.contenttweaker.compressed_wooden_plate.name=Сжатая деревянная пластина
+item.contenttweaker.wooden_gear.name=Деревянное снаряжение
+item.contenttweaker.plant_fiber.name=Растительное волокно
+item.contenttweaker.electric_magnet.name=Электрический магнит
+tile.contenttweaker.refractory_bricks.name=Огнеупорный кирпич
+item.contenttweaker.basalt.name=Базальт
+item.contenttweaker.bronze_hammer.name=Бронзовый молот
+item.contenttweaker.bronze_rivets.name=Бронзовые заклепки
+item.contenttweaker.bronze_hoe_blade.name=Бронзовое лезвие мотыги
+item.contenttweaker.bronze_sword_blade.name=Лезвие бронзового меча
+item.contenttweaker.bronze_shovel_canvase.name=Холст с бронзовой лопатой
+item.contenttweaker.bronze_pickaxe_tip.name=Бронзовый наконечник кирки
+item.contenttweaker.bronze_axe_blade.name=Лезвие бронзового топора
+tile.contenttweaker.BronzeCasing.name=Бронзовый корпус
+
+item.contenttweaker.steel_wire.name=Стальная проволка 
+item.contenttweaker.gold_wire.name=Золотая проволка
+item.contenttweaker.iron_wire.name=Железная проволка
+item.contenttweaker.copper_wire.name=Медная проволка
+item.contenttweaker.tin_wire.name=Оловяная проволка
+
+item.contenttweaker.steel_coil.name=Стальная катушка
+item.contenttweaker.gold_coil.name=Золотая катушка
+item.contenttweaker.iron_coil.name=Железная катушка
+item.contenttweaker.copper_coil.name=Медная катушка
+item.contenttweaker.tin_coil.name=Оловяная катушка
+
+item.contenttweaker.steam_tank.name=Капсула для пара
+item.contenttweaker.electric_motor.name=Электромотор 
+item.contenttweaker.bronze_gear.name=Бронзовая шестерёнка
+item.contenttweaker.iron_rotor.name=Железный ротор
+item.contenttweaker.iron_shaft.name=Железный вал
+
+item.contenttweaker.hand_drill.name=Ручная дрель
+item.contenttweaker.iron_drill_head.name=Сверло
+
+
+
+item.contenttweaker.red_steel_plate.name=Пластина из красной стали
+
+item.contenttweaker.red_steel_stick.name=Стержень из красной стали
+
+item.contenttweaker. bismuth_bronze_plate.name=Пластина из бисмутовой меди
+
+item.contenttweaker.bismuth_bronze_stick.name=Стержень из бисмутовой меди
+
+item.contenttweaker.bismuth_plate.name=Бисмутовая пластина
+
+item.contenttweaker.bismuth_stick.name=Бисмутовый стержень
+
+item.contenttweaker.black_bronze_plate.name=Пластина из чёрной бронзы
+
+item.contenttweaker.black_bronze_stick.name=Стержень из чёрной бронзы
+
+item.contenttweaker.pink_gold_plate.name=Пластина из розового золота
+
+item.contenttweaker.pink_gold_stick.name=Стержень из розового золота
+
+item.contenttweaker.volatile_iron_plate.name=Пластина из изменчивого железа
+
+item.contenttweaker.volatile_iron_stick.name=Стержень из изменчивого железа
+
+item.contenttweaker.awakened_dragonium_plate.name=Пробуждённая драконевая пластина
+
+item.contenttweaker.awakened_dragonium_stick.name=Пробуждённый драконевый стержень
+
+item.contenttweaker.dragonium_plate.name=Драконевая пластина
+
+item.contenttweaker.dragonium_stick.name=Драконевый стержень
+
+item.contenttweaker.neutronium_plate.name=Нейтронивая пластина
+
+item.contenttweaker.neutronium_stick.name=Нейтроневый стержень
+
+item.contenttweaker.crystal_matrix_plate.name=Кристально матричная пластина
+
+item.contenttweaker.crystal_matrix_stick.name=Кристально матричный стержень
+
+item.contenttweaker.infiniti_plate.name=Пластина бесконечности
+
+item.contenttweaker.infiniti_stick.name= Стержень бесконечности
+
+item.contenttweaker.inferium_plate.name=Пластина из инфериума
+
+item.contenttweaker.inferium_stick.name=Стержень из инфериума
+
+item.contenttweaker.prudentium_plate.name=Пластина из прудентиума
+
+item.contenttweaker.prudentium_stick.name=Стержень из прудентиума
+
+item.contenttweaker.intermedium_plate.name=Пластина из интермедиума
+
+item.contenttweaker.intermedium_stick.name=Стержень из интермедиума
+
+item.contenttweaker.superium_plate.name=Пластина из супериума
+
+item.contenttweaker.superium_stick.name=Стержень из супериума
+
+item.contenttweaker.supreium_plate.name=Пластина из супремиума
+
+item.contenttweaker.supreium_stick.name=Стержень из супремиума
+
+item.contenttweaker.insanium_plate.name=Пластина из инсаниума
+
+item.contenttweaker.insanium_stick.name=Стержень из инсаниума
+
+item.contenttweaker.meteoritic_iron_plate.name=Пластина из метеоритного железа
+
+item.contenttweaker.meteoritic_iron_stick.name=Стержень из метеоритного железа
+
+item.contenttweaker.desh_plate.name=Пластина из дэш
+
+item.contenttweaker.desh_stick.name=Стержень из дэш
+
+item.contenttweaker.thaumium_plate.name=Пластина из таумия
+
+item.contenttweaker.thaumium_stick.name=Стержень из таумия
+
+item.contenttweaker.void_plate.name=Пустотная пластина
+
+item.contenttweaker.void_stick.name=Пустотный стержень
+
+item.contenttweaker.enderium_plate.name=Пластина из эндериума
+
+item.contenttweaker.enderium_stick.name=Стержень из эндериума

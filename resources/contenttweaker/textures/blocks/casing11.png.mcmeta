@@ -1,0 +1,32 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "layer":"SOLID",
+        "textures":[
+            "contenttweaker:blocks/casing11_ctm"
+        ],
+		"extra": {
+            "ignore_states": true,
+            "connect_to": [
+				{ "block": "contenttweaker:casing11" },
+				{ "block": "contenttweaker:upgrade11_4x" },
+				{ "block": "contenttweaker:upgrade11_800" },
+				{ "block": "contenttweaker:upgrade11_400" },
+				{ "block": "modularmachinery:blockcasing" },
+				{ "block": "modularmachinery:craft_assembler_t1_controller" },
+				{ "block": "modularmachinery:blockenergyinputhatch" },
+				{ "block": "modularmachinery:blockenergyoutputhatch" },
+				{ "block": "modularmachinery:blockfluidinputhatch" },
+				{ "block": "modularmachinery:blockfluidoutputhatch" },
+				{ "block": "modularmachinery:blockinputbus" },
+				{ "block": "modularmachinery:blockoutputbus" },
+				{ "block": "modularmachinery:blockmeitemoutputbus" },
+				{ "block": "modularmachinery:blockmeiteminputbus" },
+				{ "block": "modularmachinery:blockmefluidoutputbus" },
+				{ "block": "modularmachinery:blockmefluidinputbus" },
+				{ "block": "modularmachinery:blockparallelcontroller" }
+            ]
+        }
+    }
+}

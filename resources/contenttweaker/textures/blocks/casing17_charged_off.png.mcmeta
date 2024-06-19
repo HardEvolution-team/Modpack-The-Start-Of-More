@@ -1,0 +1,24 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "layer":"SOLID",
+        "textures":[
+            "contenttweaker:blocks/casing17_charged_off_ctm"
+        ],
+		"extra": {
+            "ignore_states": true,
+            "connect_to": [
+				{ "block": "contenttweaker:casing17_charged" },
+				{ "block": "modularmachinery:blockcasing" },
+				{ "block": "modularmachinery:blockcontroller" },
+				{ "block": "modularmachinery:blockenergyinputhatch" },
+				{ "block": "modularmachinery:blockenergyoutputhatch" },
+				{ "block": "modularmachinery:blockfluidinputhatch" },
+				{ "block": "modularmachinery:blockfluidoutputhatch" },
+				{ "block": "modularmachinery:blockinputbus" },
+				{ "block": "modularmachinery:blockoutputbus" }
+            ]
+        }
+    }
+}

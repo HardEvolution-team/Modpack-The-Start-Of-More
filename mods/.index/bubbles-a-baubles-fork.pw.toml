@@ -1,0 +1,13 @@
+filename = 'Baubles-1.12-pre2.0-2-bubbles.jar'
+name = 'Bubbles'
+side = 'both'
+
+[download]
+hash = 'ecf1fcf2495f09eda86fbc17b5287326bea2653b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5252395
+project-id = 995393

@@ -1,0 +1,40 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "layer":"SOLID",
+        "textures":[
+            "contenttweaker:blocks/casing13_ctm"
+        ],
+		"extra": {
+            "ignore_states": true,
+            "connect_to": [
+				{ "block": "contenttweaker:upgrade13_2x" },
+				{ "block": "contenttweaker:upgrade13_4x" },
+				{ "block": "contenttweaker:upgrade13_8x" },
+				{ "block": "contenttweaker:upgrade13_16x" },
+				{ "block": "contenttweaker:upgrade13_125" },
+				{ "block": "contenttweaker:upgrade13_150" },
+				{ "block": "contenttweaker:upgrade13_175" },
+				{ "block": "contenttweaker:upgrade13_200" },
+				{ "block": "contenttweaker:casing13" },
+				{ "block": "modularmachinery:blockcasing" },
+				{ "block": "modularmachinery:miner_basic_controller" },
+				{ "block": "modularmachinery:miner_advanced_controller" },
+				{ "block": "modularmachinery:miner_elite_controller" },
+				{ "block": "modularmachinery:miner_maximum_controller" },
+				{ "block": "modularmachinery:blockenergyinputhatch" },
+				{ "block": "modularmachinery:blockenergyoutputhatch" },
+				{ "block": "modularmachinery:blockfluidinputhatch" },
+				{ "block": "modularmachinery:blockfluidoutputhatch" },
+				{ "block": "modularmachinery:blockinputbus" },
+				{ "block": "modularmachinery:blockoutputbus" },
+				{ "block": "modularmachinery:blockmeitemoutputbus" },
+				{ "block": "modularmachinery:blockmeiteminputbus" },
+				{ "block": "modularmachinery:blockmefluidoutputbus" },
+				{ "block": "modularmachinery:blockmefluidinputbus" },
+				{ "block": "modularmachinery:blockparallelcontroller" }
+            ]
+        }
+    }
+}

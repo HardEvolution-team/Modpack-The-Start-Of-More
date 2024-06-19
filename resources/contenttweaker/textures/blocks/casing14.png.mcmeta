@@ -1,0 +1,34 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "layer":"SOLID",
+        "textures":[
+            "contenttweaker:blocks/casing14_ctm"
+        ],
+		"extra": {
+            "ignore_states": true,
+            "connect_to": [
+				{ "block": "contenttweaker:casing14" },
+				{ "block": "modularmachinery:blockcasing" },
+				{ "block": "modularmachinery:decay_chamber_controller" },
+				{ "block": "modularmachinery:draconic_fusion_awakened_controller" },
+				{ "block": "modularmachinery:draconic_fusion_chaos_controller" },
+				{ "block": "modularmachinery:draconic_fusion_standart_controller" },
+				{ "block": "modularmachinery:draconic_fusion_wywern_controller" },
+				{ "block": "<modularmachinery:industrial_reactor_t1_controller>" },
+				{ "block": "modularmachinery:blockenergyinputhatch" },
+				{ "block": "modularmachinery:blockenergyoutputhatch" },
+				{ "block": "modularmachinery:blockfluidinputhatch" },
+				{ "block": "modularmachinery:blockfluidoutputhatch" },
+				{ "block": "modularmachinery:blockinputbus" },
+				{ "block": "modularmachinery:blockoutputbus" },
+				{ "block": "modularmachinery:blockmeitemoutputbus" },
+				{ "block": "modularmachinery:blockmeiteminputbus" },
+				{ "block": "modularmachinery:blockmefluidoutputbus" },
+				{ "block": "modularmachinery:blockmefluidinputbus" },
+				{ "block": "modularmachinery:blockparallelcontroller" }
+            ]
+        }
+    }
+}
