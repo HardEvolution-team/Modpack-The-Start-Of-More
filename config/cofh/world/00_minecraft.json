@@ -133,7 +133,7 @@
 			"min-height": 0,
 			"max-height": 0,
 			"retrogen": false,
-			"biome": "all",
+			"biome": "",
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -155,7 +155,7 @@
 			"min-height": 0,
 			"max-height": 0,
 			"retrogen": false,
-			"biome": "all",
+			"biome": "",
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -177,7 +177,7 @@
 			"min-height": 0,
 			"max-height": 0,
 			"retrogen": false,
-			"biome": "all",
+			"biome": "",
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -199,7 +199,7 @@
 			"min-height": 0,
 			"max-height": 0,
 			"retrogen": false,
-			"biome": "all",
+			"biome": "",
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -221,7 +221,7 @@
 			"min-height": 0,
 			"max-height": 0,
 			"retrogen": false,
-			"biome": "all",
+			"biome": "",
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -243,7 +243,7 @@
 			"center-height": 0,
 			"spread": 0,
 			"retrogen": false,
-			"biome": "all",
+			"biome": "",
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -255,7 +255,7 @@
 		},
 
 		"mesa_gold": {
-			"enabled": true,
+			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": {
@@ -365,18 +365,18 @@
 			"generator": {
 				"block": "quartz_ore",
 				"material": "minecraft:netherrack",
-				"cluster-size": 14
+				"cluster-size": 0
 			},
-			"cluster-count": 16,
-			"min-height": 10,
-			"max-height": 118,
+			"cluster-count": 0,
+			"min-height": 0,
+			"max-height": 0,
 			"retrogen": false,
 			"biome": {
 				"restriction": "whitelist",
 				"value": [
 				]
 			},
-			"dimension": "all"
+			"dimension": ""
 		}
 	}
 }
