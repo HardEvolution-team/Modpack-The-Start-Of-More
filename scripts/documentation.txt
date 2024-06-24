@@ -1,0 +1,54 @@
+
+бесформенный крафт
+
+recipes.addShapeless(output, [null, null]);
+
+
+
+
+крафт 2х2
+
+recipes.addShaped(output,
+[[null, null],
+ [null, null]]);
+
+
+ крафт 3х3
+
+ recipes.addShaped(output,
+[[null, null, null],
+ [null, null, null],
+ [null, null, null]]);
+
+крафт на advanced mortars
+
+mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], выход * 2, 8, [вход]);
+
+
+
+
+
+//полезный информейшен
+
+.anyDamage()
+
+.transformDamage(1)
+
+.anyDamage().transformDamage(1)
+
+5х5 biggercraftingtable
+
+mods.biggercraftingtables.Big.addShaped(output, [
+	[input, input, input, input, input],
+	[input, input, input, input, input],
+	[input, input, input, input, input],
+	[input, input, input, input, input],
+	[input, input, input, input, input]
+]);
+
+
+
+сито
+
+mods.exnihilocreatio.Sieve.addFlintMeshRecipe(input, output, chanse);
+

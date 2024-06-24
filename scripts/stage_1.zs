@@ -1,9 +1,9 @@
 import crafttweaker.item.IItemStack;
 
 
-val knife = <contenttweaker:flint_knife>|<contenttweaker:bronze_knife>|<contenttweaker:steel_knife>|<contenttweaker:dark_steel_knife>|<contenttweaker:iron_knife>;
-
-
+val knife = <contenttweaker:flint_knife>.anyDamage().transformDamage(1)|<contenttweaker:bronze_knife>.anyDamage().transformDamage(1)|<contenttweaker:steel_knife>.anyDamage().transformDamage(1)|<contenttweaker:dark_steel_knife>.anyDamage().transformDamage(1)|<contenttweaker:iron_knife>.anyDamage().transformDamage(1);
+val hammer = <contenttweaker:cobblestone_hammer>.anyDamage().transformDamage(1)|<contenttweaker:bronze_hammer>.anyDamage().transformDamage(1);
+val sh_stone = <contenttweaker:sharpening_stone>.anyDamage().transformDamage(1)
 
 //recipes.addShaped(output,
 //[[null, null],
@@ -68,19 +68,23 @@ recipes.addShaped(<contenttweaker:plant_fiber>*2,
 [[<minecraft:tallgrass:1>, <pyrotech:rock>],
 [<minecraft:tallgrass:1>, knife]]);
 
-recipes.addShaped(output,
+recipes.addShaped(<pyrotech:flint_shears>,
 [[<minecraft:flint>, <contenttweaker:handle>],
 [<contenttweaker:handle>, <minecraft:flint>]]);
 
+ recipes.addShaped(<contenttweaker:cobblestone_hammer>,
+[[<pyrotech:rock>, <pyrotech:rock>, <pyrotech:rock>],
+ [<contenttweaker:plant_fiber>, <contenttweaker:handle>, knife],
+ [<contenttweaker:plant_fiber>, <contenttweaker:handle>, null]]);
 
+recipes.addShapeless(<minecraft:cobblestone>, [<pyrotech:rock>, <pyrotech:rock>, <pyrotech:rock>, <pyrotech:rock>, hammer]);
 
+recipes.addShapeless(<contenttweaker:cobblestone_plate>, [<ore:cobblestone>, hammer]);
 
-
-
-
-
-
-
+ recipes.addShaped(<pyrotech:flint_butchers_knife>,
+[[<pyrotech:material:10>, <pyrotech:material:10>, <contenttweaker:plant_fiber>],
+ [<pyrotech:material:10>, <contenttweaker:handle>, <contenttweaker:plant_fiber>],
+ [sh_stone, <contenttweaker:handle>, knife]]);
 
 
 
